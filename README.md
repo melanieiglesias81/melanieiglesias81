@@ -1,14 +1,13 @@
 ## Hi there, I'm Melanie L. Iglesias 👋👋
 ###
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img data-importer="image" align="right" height="150" src="https://iconscout.com/lottie-animation/debugging-animation_6084281"  />
 
 ###
 
 Senior SQA Engineer | Dasmarinas, Cavite
 
 SQA Engineer with 7+ years experience testing web platforms, backend admin tools , scheduled jobs and third-party integrations for an online education, payrolling, research company. Handles the full QA process: designing tests, running them manually and with automation, running user acceptance testing (UAT), writting release plans, and checking that migrations, and SMS notifications. Has also trained new QA engineers on test automation.   
-
 
 
 
@@ -48,10 +47,11 @@ SQA Engineer with 7+ years experience testing web platforms, backend admin tools
 - Robot Framework
 - Selenium / TestNG
 - Postman
+- JMeter
 - Gitlab CI/CD Pipelines 
 
-##Testing:  
-- Manual, regression, end-to-End, integration, UAT, smoke and load Testing; test design; release planning
+## Testing:  
+- Automation , Manual, Regression, End-to-End, Integration, UAT, Smoke and Load Testing; Test Design; Release planning
 
 ## Tools
 
