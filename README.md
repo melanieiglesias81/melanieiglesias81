@@ -1,7 +1,7 @@
 ## Hi there, I'm Melanie L. Iglesias 👋👋
 ###
 
-<img data-importer="image" align="right" height="150" width="350" src="https://github.com/melanieiglesias81/melanieiglesias81/blob/main/image_5e5609b7.jpg?raw=true"  />
+<img data-importer="image" align="right" height="250" width="350" src="https://github.com/melanieiglesias81/melanieiglesias81/blob/main/image_5e5609b7.jpg?raw=true"  />
 
 ###
 
