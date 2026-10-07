@@ -5,7 +5,12 @@
 
 ###
 
-Senior QA Engineer | Dasmarinas, Cavite
+Senior SQA Engineer | Dasmarinas, Cavite
+SQA Engineer with 7+ years experience testing web platforms, backend admin tools , scheduled jobs and third-party integrations for an online education, payrolling, research company. Handles the full QA process: designing tests, running them manually and with automation, running user acceptance testing (UAT), writting release plans, and checking that migrations, and SMS notifications. Has also trained new QA engineers on test automation.   
+
+
+
+
 ## Tools & Skills
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
@@ -69,18 +74,6 @@ Senior QA Engineer | Dasmarinas, Cavite
 - Email: melanieiglesias81@gmail.com
 - LinkedIn: melanieiglesias81
 - Github: [melanieiglesias81](https://github.com/melanieiglesias81)
-
-
-
-
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-
-
-
-
-
-A white circle with a dark file icon outlined in the center
 
 
 <!--
