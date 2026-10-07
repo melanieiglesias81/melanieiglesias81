@@ -2,37 +2,6 @@
 
 Senior QA Engineer | Dasmarinas, Cavite
 ## Tools & Skills
-- Robot Framework
-- Selenium / TestNG
-- Postman
-- Gitlab CI/CD Pipelines 
-
-##Testing:  
-- Manual, regression, end-to-End, integration, UAT, smoke and load Testing; test design; release planning
-
-## Tools
-
- ## Ways of Working:
- Agile/Scrum, working with teeams in others countries, metoring
-
-## Projects 
-- ** Automated Test Suites**: Web UI automation using Robot Framework
-- ** API Testing**: Postman collections with environment configs
-
-## Contact
-- Email: melanieiglesias81@gmail.com
-
-
-
-
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
   <img width="12" />
@@ -64,6 +33,39 @@ Senior QA Engineer | Dasmarinas, Cavite
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
 </div>
+
+- Robot Framework
+- Selenium / TestNG
+- Postman
+- Gitlab CI/CD Pipelines 
+
+##Testing:  
+- Manual, regression, end-to-End, integration, UAT, smoke and load Testing; test design; release planning
+
+## Tools
+
+ ## Ways of Working:
+ Agile/Scrum, working with teeams in others countries, metoring
+
+## Projects 
+- ** Automated Test Suites**: Web UI automation using Robot Framework
+- ** API Testing**: Postman collections with environment configs
+
+## Contact
+- Email: melanieiglesias81@gmail.com
+
+
+
+
+<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+###
+
+<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+
 
 ###
 
