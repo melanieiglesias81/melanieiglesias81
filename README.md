@@ -1,7 +1,7 @@
 ## Hi there, I'm Melanie L. Iglesias 👋👋
 ###
 
-<img data-importer="image" align="right" height="150" src="https://iconscout.com/lottie-animation/debugging-animation_6084281"  />
+<img data-importer="image" align="right" height="150" src="https://github.com/melanieiglesias81/melanieiglesias81/edit/main/README.md#:~:text=README.md-,image_5e5609b7,-.jpg"  />
 
 ###
 
