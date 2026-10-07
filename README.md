@@ -6,6 +6,7 @@
 ###
 
 Senior SQA Engineer | Dasmarinas, Cavite
+
 SQA Engineer with 7+ years experience testing web platforms, backend admin tools , scheduled jobs and third-party integrations for an online education, payrolling, research company. Handles the full QA process: designing tests, running them manually and with automation, running user acceptance testing (UAT), writting release plans, and checking that migrations, and SMS notifications. Has also trained new QA engineers on test automation.   
 
 
