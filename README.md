@@ -1,4 +1,9 @@
 ## Hi there, I'm Melanie L. Iglesias 👋👋
+###
+
+<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
 
 Senior QA Engineer | Dasmarinas, Cavite
 ## Tools & Skills
@@ -52,21 +57,6 @@ Senior QA Engineer | Dasmarinas, Cavite
 - ** API Testing**: Postman collections with environment configs
 
 ## Contact
-- Email: melanieiglesias81@gmail.com
-
-
-
-
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-
-
 ###
 
 <div data-importer="socials" align="left">
@@ -76,6 +66,20 @@ Senior QA Engineer | Dasmarinas, Cavite
 </div>
 
 ###
+- Email: melanieiglesias81@gmail.com
+- LinkedIn: melanieiglesias81
+- Github: [melanieiglesias81](https://github.com/melanieiglesias81)
+
+
+
+
+<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+
+
+
+
+
 A white circle with a dark file icon outlined in the center
 
 
