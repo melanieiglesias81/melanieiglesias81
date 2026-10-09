@@ -5,7 +5,7 @@
 
 ###
 
-Senior SQA Engineer | Dasmarinas, Cavite
+Senior SQA Engineer | Philippines
 
 SQA Engineer with 7+ years experience testing web platforms, backend admin tools , scheduled jobs and third-party integrations for an online education, payrolling, research company. Handles the full QA process: designing tests, running them manually and with automation, running user acceptance testing (UAT), writting release plans, and checking that migrations, and SMS notifications. Has also trained new QA engineers on test automation.   
 
@@ -44,10 +44,10 @@ SQA Engineer with 7+ years experience testing web platforms, backend admin tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
 </div>
 
-- Robot Framework
-- Selenium / TestNG
-- Postman
-- JMeter
+- Robot Framework                    - PyCharm
+- Selenium / TestNG                  - InteliJ
+- Postman                            - Raspberry Pi
+- JMeter                             - Arduino
 - Gitlab CI/CD Pipelines 
 
 ## Testing:  
@@ -55,14 +55,14 @@ SQA Engineer with 7+ years experience testing web platforms, backend admin tools
 
 ## Tools
 
- ## Ways of Working:
- Agile/Scrum, working with teeams in others countries, metoring
+## Ways of Working:
+ SDLC, Waterfall, Agile/Scrum, working with teams in local and others countries, mentoring
 
 ## Projects 
-- ** Automated Test Suites**: Web UI automation using Robot Framework
-- ** API Testing**: Postman collections with environment configs
+- ** Automated Test Suites **: Web UI automation using Robot Framework
+- ** API Testing **: Postman collections with environment configs
 
-## Contact
+## 📫 How to reach me:
 ###
 
 <div data-importer="socials" align="left">
@@ -73,7 +73,7 @@ SQA Engineer with 7+ years experience testing web platforms, backend admin tools
 
 ###
 - Email: melanieiglesias81@gmail.com
-- LinkedIn: melanieiglesias81
+- LinkedIn: https://www.linkedin.com/in/melanieiglesias81/
 - Github: [melanieiglesias81](https://github.com/melanieiglesias81)
 
 
