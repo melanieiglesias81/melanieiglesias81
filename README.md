@@ -51,6 +51,15 @@ SQA Engineer with 7+ years experience testing web platforms, backend admin tools
 | ** - JMeter  ** | *** - Arduino
 | ** - Gitlab CI/CD Pipelines
 
+## 🚀 Project Overview
+
+| Feature / Module | Key Details & Sub-tasks |
+| :--- | :--- |
+| **Authentication & Security** | - User registration and login via JWT<br>- Password encryption using bcrypt<br>- Role-based access control (Admin/User) |
+| **Dashboard & Analytics** | - Real-time data visualization charts<br>- Export reports to CSV/PDF<br>- Activity log tracking |
+| **Payment Gateway** | - Stripe API integration<br>- Subscription billing management<br>- Automated invoice generation |
+
+
 
 ## Testing:  
 - Automation , Manual, Regression, End-to-End, Integration, UAT, Smoke and Load Testing; Test Design; Release planning
