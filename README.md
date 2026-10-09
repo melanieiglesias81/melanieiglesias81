@@ -45,20 +45,11 @@ SQA Engineer with 7+ years experience testing web platforms, backend admin tools
 </div>
 
 | :--- | :--- |
-| ** - Robot Framework  ** | *** - PyCharm *** |
-| ** - Selenium / TestNG  ** | *** - InteliJ *** | 
-| ** - Postman  ** | *** - Raspberry Pi
-| ** - JMeter  ** | *** - Arduino
-| ** - Gitlab CI/CD Pipelines
-
-## 🚀 Project Overview
-
-| Feature / Module | Key Details & Sub-tasks |
-| :--- | :--- |
-| **Authentication & Security** | - User registration and login via JWT<br>- Password encryption using bcrypt<br>- Role-based access control (Admin/User) |
-| **Dashboard & Analytics** | - Real-time data visualization charts<br>- Export reports to CSV/PDF<br>- Activity log tracking |
-| **Payment Gateway** | - Stripe API integration<br>- Subscription billing management<br>- Automated invoice generation |
-
+| - Robot Framework |- PyCharm  |
+| - Selenium / TestNG | InteliJ  | 
+| - Postman  | - Raspberry Pi | 
+| - JMeter | - Arduino | 
+| - Gitlab CI/CD Pipelines | 
 
 
 ## Testing:  
