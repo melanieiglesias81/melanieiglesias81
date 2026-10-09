@@ -44,11 +44,13 @@ SQA Engineer with 7+ years experience testing web platforms, backend admin tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
 </div>
 
-- Robot Framework                    - PyCharm
-- Selenium / TestNG                  - InteliJ
-- Postman                            - Raspberry Pi
-- JMeter                             - Arduino
-- Gitlab CI/CD Pipelines 
+| :--- | :--- |
+| ** - Robot Framework  ** | *** - PyCharm *** |
+| ** - Selenium / TestNG  ** | *** - InteliJ *** | 
+| ** - Postman  ** | *** - Raspberry Pi
+| ** - JMeter  ** | *** - Arduino
+| ** - Gitlab CI/CD Pipelines
+
 
 ## Testing:  
 - Automation , Manual, Regression, End-to-End, Integration, UAT, Smoke and Load Testing; Test Design; Release planning
