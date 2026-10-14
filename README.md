@@ -61,7 +61,15 @@ SQA Engineer with 7+ years experience testing web platforms, backend admin tools
 - https://docs.google.com/spreadsheets/d/1SdA1cEIO7NV1UQxh84uRcH3MjlQinMRo/edit?usp=sharing&ouid=104218902180536241855&rtpof=true&sd=true
 
 ** Sample Test Cases : ** 
-- https://docs.google.com/spreadsheets/d/1GbaEMJcxkNL1NzHDW_Pk-dtRtDJ2g0ma/edit?usp=sharing&ouid=104218902180536241855&rtpof=true&sd=true
+<p align="center">
+  <a href="https://docs.google.com/spreadsheets/d/1GbaEMJcxkNL1NzHDW_Pk-dtRtDJ2g0ma/edit?usp=sharing&ouid=104218902180536241855&rtpof=true&sd=true
+">
+    <img src="https://img.shields.io/badge/Open%20Test%20Cases-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Open test cases in Google Sheets">
+  </a>
+  <a href="https://www.saucedemo.com/">
+    <img src="https://img.shields.io/badge/Visit-SauceDemo%20Website-1F3864?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit SauceDemo website">
+  </a>
+</p>
 
 ## Ways of Working:
 
