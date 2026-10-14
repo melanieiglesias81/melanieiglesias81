@@ -58,10 +58,15 @@ SQA Engineer with 7+ years experience testing web platforms, backend admin tools
 
 ## Test Management Documentation:
 ** Templates **: 
-- https://docs.google.com/spreadsheets/d/1SdA1cEIO7NV1UQxh84uRcH3MjlQinMRo/edit?usp=sharing&ouid=104218902180536241855&rtpof=true&sd=true
+<p align="left">
+  <a href="https://docs.google.com/spreadsheets/d/1SdA1cEIO7NV1UQxh84uRcH3MjlQinMRo/editusp=sharing&ouid=104218902180536241855&rtpof=true&sd=true">
+    <img src="https://img.shields.io/badge/Open%20Test%20Cases-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Test Plan Templates">
+  </a>
+</p>
+
 
 ** Sample Test Cases : ** 
-<p align="center">
+<p align="left">
   <a href="https://docs.google.com/spreadsheets/d/1GbaEMJcxkNL1NzHDW_Pk-dtRtDJ2g0ma/edit?usp=sharing&ouid=104218902180536241855&rtpof=true&sd=true
 ">
     <img src="https://img.shields.io/badge/Open%20Test%20Cases-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Open test cases in Google Sheets">
