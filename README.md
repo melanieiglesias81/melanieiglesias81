@@ -62,6 +62,9 @@ SQA Engineer with 7+ years experience testing web platforms, backend admin tools
   <a href="https://docs.google.com/spreadsheets/d/1SdA1cEIO7NV1UQxh84uRcH3MjlQinMRo/editusp=sharing&ouid=104218902180536241855&rtpof=true&sd=true">
     <img src="https://img.shields.io/badge/Open%20Test%20Plan%20Templates-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Test Plan Templates">
   </a>
+  <a href="https://docs.google.com/spreadsheets/d/1mDb4i7WXIfbzmsKVPVmE89hu_4Sq8Pq2/edit?usp=sharing&ouid=104218902180536241855&rtpof=true&sd=true">
+    <img src="https://img.shields.io/badge/Open%20Test%20Cases%20Templates-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Test Plan Templates">
+  </a>
 </p>
 
 
