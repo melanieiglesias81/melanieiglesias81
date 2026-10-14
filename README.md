@@ -56,9 +56,15 @@ SQA Engineer with 7+ years experience testing web platforms, backend admin tools
 ## Testing:  
 - Automation , Manual, Regression, End-to-End, Integration, UAT, Smoke and Load Testing; Test Design; Release planning
 
-## Tools
+## Test Management Documentation:
+** Templates **: 
+- https://docs.google.com/spreadsheets/d/1SdA1cEIO7NV1UQxh84uRcH3MjlQinMRo/edit?usp=sharing&ouid=104218902180536241855&rtpof=true&sd=true
+
+** Sample Test Cases : ** 
+- https://docs.google.com/spreadsheets/d/1GbaEMJcxkNL1NzHDW_Pk-dtRtDJ2g0ma/edit?usp=sharing&ouid=104218902180536241855&rtpof=true&sd=true
 
 ## Ways of Working:
+
  SDLC, Waterfall, Agile/Scrum, working with teams in local and others countries, mentoring
 
 ## Projects 
