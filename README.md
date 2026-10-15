@@ -59,14 +59,19 @@ SQA Engineer with 7+ years experience testing web platforms, backend admin tools
 ## Test Management Documentation:
 ** Templates **: 
 <p align="left">
-  <a href="https://docs.google.com/spreadsheets/d/1SdA1cEIO7NV1UQxh84uRcH3MjlQinMRo/editusp=sharing&ouid=104218902180536241855&rtpof=true&sd=true">
+  <a href="https://docs.google.com/spreadsheets/d/1SdA1cEIO7NV1UQxh84uRcH3MjlQinMRo/view?usp=sharing">
     <img src="https://img.shields.io/badge/Open%20Test%20Plan%20Templates-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Test Plan Templates">
   </a>
 
 </p>
 <p align="left">
-    <a href="https://docs.google.com/spreadsheets/d/1mDb4i7WXIfbzmsKVPVmE89hu_4Sq8Pq2/edit?usp=sharing&ouid=104218902180536241855&rtpof=true&sd=true">
-    <img src="https://img.shields.io/badge/Open%20Test%20Cases%20Templates-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Test Plan Templates">
+    <a href="https://docs.google.com/spreadsheets/d/1mDb4i7WXIfbzmsKVPVmE89hu_4Sq8Pq2/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Open%20Test%20Case%20Templates-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Test Case Templates">
+  </a>
+</p>
+<p align="left">
+    <a href="https://drive.google.com/file/d/1c_Y_acxdPzx6D77VhdlAYbTz6aTc7Je4/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Open%20Test%20Matrix%20Templates-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Test Matrix Templates">
   </a>
 </p>
 
@@ -74,8 +79,7 @@ SQA Engineer with 7+ years experience testing web platforms, backend admin tools
 
 ** Sample Test Cases : ** 
 <p align="left">
-  <a href="https://docs.google.com/spreadsheets/d/1GbaEMJcxkNL1NzHDW_Pk-dtRtDJ2g0ma/edit?usp=sharing&ouid=104218902180536241855&rtpof=true&sd=true
-">
+  <a href="https://docs.google.com/spreadsheets/d/1GbaEMJcxkNL1NzHDW_Pk-dtRtDJ2g0ma/view?usp=sharing">
     <img src="https://img.shields.io/badge/Open%20Test%20Cases-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Open test cases in Google Sheets">
   </a>
   <a href="https://www.saucedemo.com/">
