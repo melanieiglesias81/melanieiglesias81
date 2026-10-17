@@ -7,7 +7,7 @@
 
 Senior SQA Engineer | Philippines
 
-SQA Engineer with 7+ years experience testing web platforms, backend admin tools , scheduled jobs and third-party integrations for an online education, payrolling, research company. Handles the full QA process: designing tests, running them manually and with automation, running user acceptance testing (UAT), writting release plans, and checking that migrations, and SMS notifications. Has also trained new QA engineers on test automation.   
+SQA Engineer with 8 years of experience testing web platforms, backend admin tools, scheduled jobs, and third-party integrations for an online education, payroll, and research company. Handles the full QA process: designing tests, testing manually, building and executing automation testing, conducting User Acceptance Testing (UAT), writing release plans, and production verification. Also experienced in onboarding new QA engineers on test automation.   
 
 
 
@@ -46,11 +46,11 @@ SQA Engineer with 7+ years experience testing web platforms, backend admin tools
 
 | Automation & Testing Tools | IDEs & Hardware Platforms |
 | :--- | :--- |
-| - Robot Framework | - PyCharm |
-| - Selenium / TestNG | - IntelliJ |
-| - Postman | - Raspberry Pi |
-| - JMeter | - Arduino |
-| - GitLab CI/CD Pipelines | |
+| - Robot Framework with Python| - PyCharm |
+| - Selenium with TestNG Framework using JAVA| - IntelliJ |
+| - Playwright Framework using JAVA | - JMeter  |
+| - Postman| - Raspberry Pi |
+| - GitLab CI/CD Pipelines |- Arduino|
 
 
 ## Testing:  
@@ -77,7 +77,7 @@ SQA Engineer with 7+ years experience testing web platforms, backend admin tools
 
 
 
-** Sample Test Cases : ** 
+** Sample Test Cases: ** 
 <p align="left">
   <a href="https://docs.google.com/spreadsheets/d/1GbaEMJcxkNL1NzHDW_Pk-dtRtDJ2g0ma/view?usp=sharing">
     <img src="https://img.shields.io/badge/Open%20Test%20Cases-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Open test cases in Google Sheets">
@@ -89,11 +89,11 @@ SQA Engineer with 7+ years experience testing web platforms, backend admin tools
 
 ## Ways of Working:
 
- SDLC, Waterfall, Agile/Scrum, working with teams in local and others countries, mentoring
+ SDLC, Waterfall, Agile/Scrum, working with teams in local and other countries, mentoring
 
 ## Projects 
-- ** Automated Test Suites **: Web UI automation using Robot Framework
-- ** API Testing **: Postman collections with environment configs
+- Automated Test Suites:  Web UI automation using Robot Framework, Selenium framework, Playwright Framework 
+- API Testing: Postman collections with environment configs
 
 ## 📫 How to reach me:
 ###
