@@ -57,7 +57,7 @@ SQA Engineer with 8 years of experience testing web platforms, backend admin too
 - Automation , Manual, Regression, End-to-End, Integration, UAT, Smoke and Load Testing; Test Design; Release planning
 
 ## Test Management Documentation:
-** Templates **: 
+- Templates: 
 <p align="left">
   <a href="https://docs.google.com/spreadsheets/d/1SdA1cEIO7NV1UQxh84uRcH3MjlQinMRo/view?usp=sharing">
     <img src="https://img.shields.io/badge/Open%20Test%20Plan%20Templates-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Test Plan Templates">
@@ -77,7 +77,7 @@ SQA Engineer with 8 years of experience testing web platforms, backend admin too
 
 
 
-** Sample Test Cases: ** 
+- Sample Test Cases: 
 <p align="left">
   <a href="https://docs.google.com/spreadsheets/d/1GbaEMJcxkNL1NzHDW_Pk-dtRtDJ2g0ma/view?usp=sharing">
     <img src="https://img.shields.io/badge/Open%20Test%20Cases-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Open test cases in Google Sheets">
