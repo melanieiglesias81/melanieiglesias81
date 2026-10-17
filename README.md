@@ -48,9 +48,10 @@ SQA Engineer with 8 years of experience testing web platforms, backend admin too
 | :--- | :--- |
 | - Robot Framework with Python| - PyCharm |
 | - Selenium with TestNG Framework using JAVA| - IntelliJ |
-| - Playwright Framework using JAVA | - JMeter  |
-| - Postman| - Raspberry Pi |
-| - GitLab CI/CD Pipelines |- Arduino|
+| - Playwright Framework using JAVA | - Raspberry Pi  |
+| - Rest API Postman| - Arduino |
+| - GitLab CI/CD Pipelines | |
+| - JMeter  | |
 
 
 ## Testing:  
